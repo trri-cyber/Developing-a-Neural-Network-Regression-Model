@@ -4,7 +4,13 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+In many real-world problems, the relationship between inputs and outputs is non-linear and cannot be modeled accurately using traditional linear regression. A neural network regression model overcomes this limitation by using multiple layers of interconnected neurons and non-linear activation functions to capture complex patterns in the data.
+
+The task involves:
+- Feeding the dataset’s input variables into a neural network  
+- Training the model by minimizing a loss function (such as Mean Squared Error)  
+- Adjusting weights using backpropagation and optimization algorithms  
+- Predicting continuous output values with improved accuracy  
 
 ## Neural Network Model
 <img width="1057" height="702" alt="image" src="https://github.com/user-attachments/assets/0560e8cd-f695-456b-956d-2e6612864f95" />
